@@ -17,4 +17,4 @@ Databáza študentov a učiteľov - Projekt na BPC-PC2T
 
 Copyright 2021 Michal Žernovič
 
-Licensed under the MIT License
+Licensed under the [MIT License](LICENSE)
